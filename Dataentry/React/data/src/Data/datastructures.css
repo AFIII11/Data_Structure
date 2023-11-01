@@ -1,0 +1,205 @@
+.table {
+    width: 1000px;
+    height: 10px !important; 
+    margin-top: 900px;
+    margin-left: 100px;
+    font-weight: bold;
+    border:1px black solid ;
+    position: relative;
+    top: 111px;
+    
+}
+.table th{
+    border: 1px black solid;
+}
+.tm{
+    margin-bottom: 111px;
+}
+.btn{
+    background-color: rgb(179, 178, 178);
+    width: 100px;
+    height: 32px;
+    border-radius: 1px;
+    margin-left: 1200px;
+    position: relative;
+    bottom: 520px;
+}
+.btn:hover{
+    background-color: rgb(104, 96, 96);
+}
+.btns{
+    background-color: rgb(179, 178, 178);
+    width: 100px;
+    border-radius: 1px;
+    margin-left: 1210px;
+    position: relative;
+    bottom: 200px;
+
+}
+.btns:hover{
+    background-color: rgb(104, 96, 96);
+}
+.btnss{
+    background-color: rgb(179, 178, 178);
+    width: 100px;
+    border-radius: 1px;
+    margin-left: 1290px;
+    position: relative;
+    bottom: 80px;
+
+}
+.btnss:hover{
+    background-color: rgb(104, 96, 96);
+}
+.menu{
+    background-color: rgb(179, 178, 178);
+    width: 100px;
+    height: 30px;
+    border-radius: 1px;
+    margin-left: 1320px;
+    position: relative;
+    bottom: 633px;
+
+}
+.menu:hover{
+    background-color: rgb(104, 96, 96);
+}
+
+.sec{
+    height: 800px;
+}
+/* .bigdiv{
+} */
+.smalldiv{
+    width: 200px;
+    height: 100px;
+    margin: 20px auto;
+    display: flex;
+}
+.one{
+    width: 200px;
+    height: 50px;
+    margin-top: auto;
+    border-left: 1px black solid;
+    border-top:1px black solid ;
+
+
+}
+.two{
+    width: 200px;
+    height: 100px;
+}
+.three{
+    width: 200px;
+    height: 50px;
+      margin-top: auto;
+    border-right: 1px black solid;
+    border-top:1px black solid ;
+
+
+}
+.smalldivtwo{
+    display: flex;
+    width: 200px;
+    position: absolute;
+    right: 600px;
+    top: 100px;
+
+}
+
+.ones{
+    width: 50px;
+    height: 50px;
+    margin-top: auto;
+
+
+
+}
+.twos{
+    height: 100px;
+}
+.threes{
+    width: 50px;
+    height: 50px;
+      margin-top: auto;
+
+
+
+}
+
+
+.oness{
+    width: 50px;
+    height: 50px;
+    margin-top: auto;
+   
+
+
+}
+.twoss{
+    height: 100px;
+}
+.threess{
+    width: 50px;
+    height: 50px;
+      margin-top: auto;
+
+
+
+}
+
+.smalldivthree{
+    display: flex;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+
+
+}
+
+.fix{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 30px;
+    left: 620px;
+    display: flex;
+}
+.fixone{
+    width: 200px;
+    height: 50px;
+    margin-top: auto;
+    border-left: 1px black solid;
+    border-top:1px black solid ;
+}
+.fixtwo{
+    width: 200px;
+    height: 100px;
+
+}
+
+.fixthree{
+    
+    width: 200px;
+    height: 50px;
+      margin-top: auto;
+    border-right: 1px black solid;
+    border-top:1px black solid ;
+
+}
+
+.radio-position{
+    display: flex;
+    gap: 10px;
+    margin-left: 1350px;
+    position: absolute;
+    top: 1560px;
+}
+h6{
+    color: green;
+    padding-top: 140px;
+    padding-left: 680px;
+}
+
+    
